@@ -177,7 +177,6 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
-        // dev
         Barryvdh\Debugbar\ServiceProvider::class,
 
     ],
