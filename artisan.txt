@@ -1,0 +1,4 @@
+php artisan make:migration create_table_peoples --create=peoples
+php artisan migrate
+php artisan make:controller IndexController
+php artisan make:model People
